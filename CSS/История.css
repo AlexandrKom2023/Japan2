@@ -1,0 +1,87 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background-color: RGB(165, 0, 0);
+}
+
+h1 {   /* Заголовки */
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+  top: 50%;
+  font-size: 50px;
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
+}
+
+h2 {  /* Заголовки-2 */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
+  margin: 20px;
+  font-size: 30px;
+  color: black;
+  margin: 2% 10% 1% 13%;  /* отступы (сверху, справа, снизу, слева) */
+}
+
+.histoty_text {  /* текст */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
+  font-size: 30px;
+  color: black;
+  margin: 2% 10% 1% 10%;  /* отступы (сверху, справа, снизу, слева) */
+}
+
+.histoty_text_abzac {  /* Добавляем красную строку абзаца */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
+  font-size: 30px;
+  color: black;
+  margin: 2% 10% 1% 10%;  /* отступы (сверху, справа, снизу, слева) */
+  text-indent: 40px;
+}
+
+/* задаём стиль ссылок */
+.histoty_text_silka a:link {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
+  font-size: 30px;
+  color: green;
+  margin: 0% 0% 0% 15%;  /* отступы (сверху, справа, снизу, слева) */
+  text-decoration: none;
+}
+
+/* задаём стиль ссылок при наведении мышки */
+.histoty_text_silka a:hover {
+  text-decoration: underline;
+  color: green;
+}
+
+/* задаём стиль ссылок после нажатия мышки */
+.histoty_text_silka a:visited {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
+  font-size: 30px;
+  color: green;
+  margin: 0% 0% 0% 15%;  /* отступы (сверху, справа, снизу, слева) */
+  text-decoration: none;
+}
+
+
+.histoty_picture {  /* Картинки */
+  margin:0 25% 0 25%;
+  width:50%;
+}
+  
+.histoty_text_picture_1 { /* подпись к картинкам */
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, Serif;
+  color: black;
+  margin: 10px;
+  text-align: center;
+}
+
+.histoty_e {  /* на будущее */
+  position: relative;
+  bottom: 0;
+  background-color: rgb(255, 255, 255);
+  height: 50px;
+  width: 100%;
+}
