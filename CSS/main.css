@@ -160,6 +160,13 @@ nav {
   text-indent: 40px;
 }
 
+.main_picture {  /* Картинки */
+
+  margin: -200% 30% 4% 33%;
+  top: -50%;
+  width: 30%;
+}
+
 .main_line_up_1 {
   height: 50px;
   width: 100%;
