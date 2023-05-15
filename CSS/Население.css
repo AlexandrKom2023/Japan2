@@ -12,33 +12,33 @@ h1 {   /* Заголовки */
   text-align: center;
   margin-top: 20px;
   top: 50%;
-  font-size: 50px;
+  font-size: 3vw;
   color: black;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
 }
 
 .people_text {  /* текст */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 30px;
+  font-size: 1.5vw;
   color: black;
   margin: 2% 10% 1% 10%;  /* отступы (сверху, справа, снизу, слева) */
 }
 
 .people_text_abzac {  /* Добавляем красную строку абзаца */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 30px;
+  font-size: 1.5vw;
   color: black;
   margin: 2% 10% 1% 10%;  /* отступы (сверху, справа, снизу, слева) */
   text-indent: 40px;  
 }
 
 .people_picture {  /* Картинки */
-  margin:0 25% 0 25%;
-  width:50%;
+  margin: 0 25% 0 25%;
+  width: 50%;
 }
   
 .people_text_picture_1 { /* подпись к картинкам */
-  font-size: 20px;
+  font-size: 1.3vw;
   font-family: 'Times New Roman', Times, serif;
   color: black;
   margin: 10px;
@@ -49,6 +49,6 @@ h1 {   /* Заголовки */
   position: relative;
   bottom: 0;
   background-color: rgb(255, 255, 255);
-  height: 50px;
+  height: 20%;
   width: 100%;
 }
