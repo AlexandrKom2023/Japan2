@@ -10,7 +10,7 @@ body {
 h1 {   /* Заголовки */
   position: relative;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 1em;
   top: 50%;
   font-size: 1.6em;
   color: black;
