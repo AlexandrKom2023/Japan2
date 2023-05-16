@@ -53,7 +53,7 @@ body {
   top: 1vw;
   height: 5.5vw;
   width: 80%;
-  font-size: 3vw;
+  font-size: 3em;
   color: black;
   background-color: RGB(255, 255, 255);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
@@ -85,7 +85,7 @@ ul {
 }
 
 a {
-  font-size: 1.1vw;
+  font-size: 1em;
   display: block;
   text-decoration: none;
   font-family: 'Lora', serif;
@@ -139,7 +139,7 @@ nav {
   background-color: RGB(165, 0, 0);
   color: #ffffff;
   /* свойства шрифта*/
-  font-size: 1.1vw;
+  font-size: 1em;
   text-decoration: none;
   font-family: 'Lora', serif;
   transition: .5s linear;
@@ -147,14 +147,14 @@ nav {
 
 .main_window_text {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.5vw;
+  font-size: 1em;
   color: black;
   margin: 10% 10% 5% 10%;  /* отступы (сверху, справа, снизу, слева) */
 }
 
 .main_window_text_abzac {  /* Добавляем красную строку абзаца */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.5vw;
+  font-size: 1em;
   color: black;
   margin: 10% 10% 16% 10%;  /* отступы (сверху, справа, снизу, слева) */
   text-indent: 40px;
