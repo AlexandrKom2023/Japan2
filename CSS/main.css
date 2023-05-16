@@ -124,7 +124,7 @@ nav {
 .main_menu a {
   /*display: b;*/
   padding: 1em;
-  height: 80%;
+  height: 70%;
   width: 80%;
   border: 1px solid RGB(255, 255, 255);
   background-color: RGB(0, 0, 0);
@@ -143,10 +143,10 @@ nav {
   background-color: RGB(100, 0, 0);
   color: #ffffff;
   /* свойства шрифта*/
-  /*font-size: 1em;
+  font-size: 1em;
   text-decoration: none;
   font-family: 'Lora', serif;
-  transition: .5s linear;*/
+  transition: .5s linear;
 }
 
 .main_window_text {
