@@ -53,7 +53,7 @@ body {
   top: 1vw;
   height: 5.5vw;
   width: 80%;
-  font-size: 3em;
+  font-size: 4vw;
   color: black;
   background-color: RGB(255, 255, 255);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
@@ -93,7 +93,7 @@ a {
 }
 
 i {
-  margin-right: 20px;
+  margin-right: 20%;
 }
 
 nav {
@@ -103,11 +103,12 @@ nav {
 
 .main_menu{
   position: relative;
-  top: 0px;
+  top: 0%;
   width: auto;
-  height: 3.7vw;
+  height: auto;
   display: flex;
-  margin-bottom: 2px;
+  flex-direction: row;
+  margin-bottom: 2%;
 }
 
 .main_menu ul {
@@ -121,8 +122,10 @@ nav {
 }
 
 .main_menu a {
-  display: block;
+  /*display: b;*/
   padding: 1em;
+  height: 80%;
+  width: 80%;
   border: 1px solid RGB(255, 255, 255);
   background-color: RGB(0, 0, 0);
   color: #ffffff;
@@ -133,16 +136,17 @@ nav {
 }
 
 .main_menu li.active {  /*активный пункт меню*/
-  display: block;
+  /*display: block;*/
   padding: 1em;
+  height: auto;
   border: 1px solid RGB(255, 255, 255);
-  background-color: RGB(165, 0, 0);
+  background-color: RGB(100, 0, 0);
   color: #ffffff;
   /* свойства шрифта*/
-  font-size: 1em;
+  /*font-size: 1em;
   text-decoration: none;
   font-family: 'Lora', serif;
-  transition: .5s linear;
+  transition: .5s linear;*/
 }
 
 .main_window_text {
@@ -168,14 +172,14 @@ nav {
 }
 
 .main_line_up_1 {
-  height: 50px;
+  height: 2.8vw;
   width: 100%;
   background-color: RGB(231, 184, 28);
 }
 
 .main_line_down_1 {
   bottom: 0px;
-  height: 50px;
+  height: 2.8vw;
   width: 100%;
   background-color: RGB(231, 184, 28);
 
@@ -183,7 +187,7 @@ nav {
 
 .main_line_down_2 {
   bottom: 0px;
-  height: 50px;
+  height: 2.8vw;
   width: 100%;
   background-color: black;
 }
@@ -192,6 +196,6 @@ nav {
   position: relative;
   bottom: 0;
   background-color: rgb(255, 255, 255);
-  height: 50px;
+  height: 50%;
   width: 100%;
 }
