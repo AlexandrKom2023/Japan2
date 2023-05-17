@@ -149,14 +149,14 @@ nav {
 
 .main_window_text {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.5em;
+  font-size: 1.0em;
   color: black;
   margin: 10% 10% 5% 10%;  /* отступы (сверху, справа, снизу, слева) */
 }
 
 .main_window_text_abzac {  /* Добавляем красную строку абзаца */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.5em;
+  font-size: 1.0em;
   color: black;
   margin: 10% 10% 16% 10%;  /* отступы (сверху, справа, снизу, слева) */
   text-indent: 5%;
