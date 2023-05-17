@@ -19,14 +19,14 @@ h1 {   /* Заголовки */
 
 .geo_text {  /* текст */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.5vw;
+  font-size: 1.0em;
   color: black;
   margin: 2% 10% 1% 10%;  /* отступы (сверху, справа, снизу, слева) */
 }
 
 .geo_text_abzac {  /* Добавляем красную строку абзаца */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.5vw;
+  font-size: 1.0em;
   color: black;
   margin: 2% 10% 1% 10%;  /* отступы (сверху, справа, снизу, слева) */
   text-indent: 5%;
