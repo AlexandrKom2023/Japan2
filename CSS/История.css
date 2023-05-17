@@ -20,7 +20,7 @@ h1 {   /* Заголовки */
 h2 {  /* Заголовки-2 */
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
   margin: 20px;
-  font-size: 1.6em;
+  font-size: 1.4em;
   color: black;
   margin: 2% 10% 1% 13%;  /* отступы (сверху, справа, снизу, слева) */
 }
@@ -43,7 +43,7 @@ h2 {  /* Заголовки-2 */
 /* задаём стиль ссылок */
 .histoty_text_silka a:link {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.6em;
+  font-size: 1.4em;
   color: green;
   margin: 0% 0% 0% 15%;  /* отступы (сверху, справа, снизу, слева) */
   text-decoration: none;
@@ -58,7 +58,7 @@ h2 {  /* Заголовки-2 */
 /* задаём стиль ссылок после нажатия мышки */
 .histoty_text_silka a:visited {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Sans-Serif;
-  font-size: 1.6em;
+  font-size: 1.4em;
   color: green;
   margin: 0% 0% 0% 15%;  /* отступы (сверху, справа, снизу, слева) */
   text-decoration: none;
