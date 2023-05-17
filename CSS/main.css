@@ -86,11 +86,10 @@ ul {
 }
 
 i {
-	display: block;
+  display: block;
   margin-right: 20%;
   border: 1px solid RGB(255, 255, 255);
 }
-
 
 nav {
   width: 80%;
@@ -109,7 +108,7 @@ nav {
 .main_menu a {   /* НЕ активные пункты меню */
   display: block;
   padding: 0.5em;
-  height: 2.2vw;  /* высота меню */
+  height: 2.5vw;  /* высота меню */
   align-items: stretch;
   align-content: center;
   
@@ -128,7 +127,7 @@ nav {
 .main_menu li.active {  /* активный пункт меню */
   display: block;
   padding: 0.5em;
-  height: 2.2vw;
+  height: 2.5vw;
   align-items: stretch;
   align-content: center;
 
