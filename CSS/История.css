@@ -20,7 +20,7 @@ h1 {   /* Заголовки */
 h2 {  /* Заголовки-2 */
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
   margin: 20px;
-  font-size: 30px;
+  font-size: 2vw;
   color: black;
   margin: 2% 10% 1% 13%;  /* отступы (сверху, справа, снизу, слева) */
 }
