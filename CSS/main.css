@@ -159,7 +159,7 @@ nav {
   font-size: 1.5em;
   color: black;
   margin: 10% 10% 16% 10%;  /* отступы (сверху, справа, снизу, слева) */
-  text-indent: 10%;
+  text-indent: 5%;
 }
 
 .main_picture {  /* Картинки */
