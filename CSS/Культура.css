@@ -19,14 +19,14 @@ h1 {   /* Заголовки */
 
 h2 {  /* Заголовки-2 */
   margin: 20px;
-  font-size: 1.6em;
+  font-size: 1.4em;
   color: black;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
 }
 
 h3 {  /* Заголовки-3 */
   margin-left: 50px;
-  font-size: 1.3em;
+  font-size: 1.2em;
   color: black;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;
 }
